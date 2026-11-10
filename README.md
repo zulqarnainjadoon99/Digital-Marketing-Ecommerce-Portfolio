@@ -1,12 +1,30 @@
 # Digital Marketing & E-commerce Portfolio
 
-**Practical Digital Marketing and E-commerce Case Study**
+**Prepared by:** Zulqarnain Khan Jadoon  
+**Project Area:** Digital Marketing & E-commerce  
+**Location:** Abbottabad, Khyber Pakhtunkhwa, Pakistan  
+**Project Type:** Simulated Portfolio Demonstration  
+**Status:** Learning and Demonstration Tasks Documented
 
-- **Prepared by:** Zulqarnain Khan Jadoon
-- **Project Area:** Digital Marketing & E-commerce
-- **Location:** Abbottabad, Khyber Pakhtunkhwa, Pakistan
-- **Project Type:** Practical Portfolio Demonstration
-- **Status:** Completed Learning & Demonstration Tasks
+## Portfolio Visuals
+
+The repository includes a set of visual assets prepared for the two practical tasks in this portfolio.
+
+![Digital Marketing Portfolio Visual 1](Gemini_Generated_Image_6dkt3o6dkt3o6dkt.jpg)
+
+![Digital Marketing Portfolio Visual 2](Gemini_Generated_Image_p2ywhyp2ywhyp2yw.jpg)
+
+![Digital Marketing Portfolio Visual 3](Gemini_Generated_Image_pwna20pwna20pwna.jpg)
+
+![Digital Marketing Portfolio Visual 4](Gemini_Generated_Image_q12f2vq12f2vq12f.jpg)
+
+![Digital Marketing Portfolio Visual 5](Gemini_Generated_Image_s2e5vfs2e5vfs2e5.jpg)
+
+![Digital Marketing Portfolio Visual 6](Gemini_Generated_Image_tn50t0tn50t0tn50.jpg)
+
+![Digital Marketing Portfolio Visual 7](Gemini_Generated_Image_u46oc0u46oc0u46o.jpg)
+
+---
 
 ## Project Overview
 
